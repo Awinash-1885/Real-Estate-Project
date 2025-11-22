@@ -1,7 +1,5 @@
  🏢 **Power BI Real Estate Project Dashboard**
 
-![Dashboard Screenshot](attachment\:Real_Estate_Project.PNG)
-
 
 **📌 Introduction**
 
